@@ -1,0 +1,11 @@
+/*Add page number to the bottom left of the left and right pages */
+@page :left {
+  @bottom-center {
+    content: counter(page);
+  }
+}
+@page :right {
+  @bottom-center {
+    content: counter(page);
+  }
+}
