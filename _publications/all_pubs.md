@@ -1,6 +1,5 @@
 ---
 collection: publications
-date: now
 ---
 
 _2022_
