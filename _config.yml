@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en_GB"
-title                    : "Mazdak Salavati's Webpage"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Mazdak Salavati"
 description              : &description "Computational Biologist ~ Data Scientist ~ Academic Survivor"
