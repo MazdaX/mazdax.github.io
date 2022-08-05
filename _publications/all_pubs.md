@@ -3,7 +3,7 @@ collection: publications
 date: 2022
 ---
 
-### 2022
+2022
 
 - VarGoats Consortium, Nijman, I. J., Rosen, B. D., Bardou, P., Faraut, T., Cumer, T., Daly, K. G., Zheng, Z., Cai, Y., Asadollahpour, H., Kul, B. Ç., Zhang, W-Y, E., G., Ayin, A., Baird, H., Bakhtin, M., Bâlteanu, V. A., Barfield, D., Berger, B., Salavati M. … Lenstra, J. A. (2022). Geographical contrasts of Y-chromosomal haplogroups from wild and domestic goats reveal ancient migrations and recent introgressions. Molecular Ecology, 00, 1– 17. <https://doi.org/10.1111/mec.16579>
 - Geoffrey Pollott, Richard Piercy, Claire Massey, Marta Fernandez-Fuente, Mazdak Salavati and Claire Wathes. Locating a novel autosomal recessive genetic condition using only WGS data from three cases and six controls; a case study of a new variant in the cattle glucokinase gene. Frontiers in Genetics Sec. Livestock Genomics <https://doi.org/10.3389/fgene.2022.755693>  
@@ -12,7 +12,7 @@ date: 2022
 - Kimberly M Davenport, Derek M Bickhart, Kim Worley, Shwetha C Murali, Mazdak Salavati, Emily L Clark, Noelle E Cockett, Michael P Heaton, Timothy P L Smith, Brenda M Murdoch, Benjamin D Rosen, An improved ovine reference genome assembly to facilitate in-depth functional annotation of the sheep genome, GigaScience, Volume 11, 2022, giab096, <https://doi.org/10.1093/gigascience/giab096>
 - Yennifer Cortes-Araya, Claire Stenhouse, Mazdak Salavati, Susan Dan-Jumbo, Cheryl Ashworth, Emily Clark, Cristina Esteves, Xavier Donadeu. Transcriptome profiling of foetal growth-restricted skeletal muscle: KLB mediates disrupted muscle development in IUGR, The Journal of Clinical Endocrinology & Metabolism. J Physiol.<https://doi.org/10.1113/JP281647>
 
-### 2021
+2021
 
 - Laure Denoyelle, Estelle Talouarn, Philippe Bardou, Licia Colli, Adriana Alberti, Coralie Danchin, Marcello Del Corvo, Stéfan Engelen, Céline Orvain, Isabelle Palhière, Rachel Rupp1, Julien Sarry, Mazdak Salavati, Marcel Amills, Emily Clark, Paola Crepaldi, Thomas Faraut, Clet Wandui Masiga, François Pompanon, Benjamin D Rosen, Alessandra Stella, Curtis P Van Tasse, Gwenola Tosser-Klopp and the VarGoats Consortium. VarGoats project: a 1,160 whole-genome sequence dataset to dissect Capra hircus worldwide diversity. Genet Sel Evol 53, 86 (2021). <https://doi.org/10.1186/s12711-021-00659-6>
 - Wathes, D. C., Frank Becker, Laura Buggiotti, Mark A. Crowe, Conrad Ferris, Leslie Foldager, Clément Grelet, Miel Hostens, Klaus L. Ingvartsen, Cinzia Marchitelli, Mazdak Salavati, Federica Signorelli, Haruko Takeda, Lijing Tang, Zhangrui Cheng, and the GplusE Consortium. 2021. "Associations between Circulating IGF-1 Concentrations, Disease Status and the Leukocyte Transcriptome in Early Lactation Dairy Cows" Ruminants 1, no. 2: 147-177. <https://doi.org/10.3390/ruminants1020012>
@@ -22,7 +22,7 @@ date: 2022
 - Buggiotti, L., Cheng, Z., Salavati, M. et al. Comparison of the transcriptome in circulating leukocytes in early lactation between primiparous and multiparous cows provides evidence for age-related changes. BMC Genomics 22, 693 (2021). <https://doi.org/10.1186/s12864-021-07977-5>
 - Dimonaco, N.J.; Salavati, M.; Shih, B.B. Computational Analysis of SARS-CoV-2 and SARS-Like Coronavirus Diversity in Human, Bat and Pangolin Populations. Viruses 2021, 13, 49 <https://doi.org/10.3390/v13010049>
 
-### 2020
+2020
 
 - Mazdak Salavati, Jorge Pérez-Accino, Yi Lin Tan, Tiziana Liuti, Sionagh Smith, Linda Morrison, Silke Salavati Schmitz. Correlation of minimally invasive imaging techniques to assess intestinal mucosal perfusion with established markers of chronic inflammatory enteropathy in dogs. J Vet Intern Med. 2020; 1– 10. <https://doi.org/10.1111/jvim.15997>
 - Mazdak Salavati, Alex Caulton, Richard Clark, Iveta Gazova, Timothy P. L. Smith, Kim C. Worley, Noelle E. Cockett, Alan L. Archibald, Shannon M. Clarke, Brenda M. Murdoch, Emily L. Clark1on behalf of The Ovine FAANG Project Consortium. Global analysis of transcription start sites in the new ovine reference genome (Oar rambouillet v1.0). Frontiers in Genetics; Livestock Genomics Issue. (Sep 2020 In Press) doi: 10.3389/fgene.2020.580580; <https://doi.org/10.1101/2020.07.06.189480>
@@ -35,7 +35,7 @@ date: 2022
 - Leslie Foldager, Charlotte Gaillard, Martin T Sorensen, Torben Larsen, Elizabeth Matthews, Roisin O’Flaherty, Fiona Carter, Mark A Crowe, Clément Grelet, Mazdak Salavati, Miel Hostens, Klaus L Ingvartsen, Mogens A Krogh, GplusE Consortium. Predicting physiological imbalance in Holstein dairy cows by three different sets of milk biomarkers. Preventive Veterinary Medicine 2020, (<https://doi.org/10.1016/j.prevetmed.2020.105006>)
 - Hadi Atashi, Mazdak Salavati, Jenne De Koster, Mark A Crowe, Geert Opsomer, Miel Hostens. A Genome-Wide Association Study for Calving Interval in Holstein Dairy Cows Using Weighted Single-Step Genomic BLUP Approach. MDPI Animals 2020 (<https://doi.org/10.3390/ani10030500>)
   
-### 2019
+2019
 
 - Mazdak Salavati, Stephen J. Bush, Sergio Palma-Vera, Mary E.B. McCulloch, David A. Hume, and Emily L. Clark. Elimination of reference mapping bias reveals robust immune related allele-specific expression in cross-bred sheep (Frontiers in Genetics, 19 September 2019 <https://doi.org/10.3389/fgene.2019.00863> )
 - Krogh M. A., Hostens M., Salavati M., Grelet C., Sorensen M. T., Wathes D. C., Marchitelli C., Signorelli F., Napolitano F., Becker F., Larsen T., Matthews E., Carter F., Vanlierde A., Opsomer G., Gengler N., Dehareng F., Crowe M. A., Ingvartsen K. L. & Foldager L.; Between and within-herd variation in blood and milk biomarkers in Holstein cows in early lactation. (Animal ; 26 Sep 2019 DOI: <https://doi.org/10.1017/S1751731119002659>)
@@ -45,32 +45,32 @@ date: 2022
 - Charity Muriuki, Stephen J. Bush, Mazdak Salavati, Mary E.B. McCulloch, Zofia M. Lisowski, Morris Agaba, Appolinaire Djikeng, David A. Hume and Emily L. Clark; A Mini-Atlas of Gene Expression for the Domestic Goat (Capra hircus) Frontiers in Genetics 04 November 2019 (<https://doi.org/10.3389/fgene.2019.01080>)
 - Stephen J Bush, Mary EB McCulloch, Charity Muriuki, Mazdak Salavati, Gemma M Davis, Iseabail L Farquhar, Zofia M Lisowski, Alan Archibald, David A Hume, Emily L Clark Comprehensive transcriptional profiling of the gastrointestinal tract of ruminants from birth to adulthood reveals strong developmental stage specific gene expression. "(Genes|Genomes|Genetics, 2019)" <https://doi.org/10.1534/g3.118.200810>  
 
-### 2018
+2018
 
 - J. De Koster, M. Salavati, C. Grelet, M. A. Crowe, E. Matthews, R. O’Flaherty, G. Opsomer, L. Foldager, the GplusE consortium and M. Hostens. Prediction of metabolic clusters in early lactation dairy cows using models based on milk biomarkers. (Journal of Dairy Science, 2018 <https://doi.org/10.3168/jds.2018-15533>
 - Grelet C, Vanlierde A, Hostens M, Foldager L, Salavati M, Ingvartsen KL, Crowe M, Sorensen MT, Froidmont E, Ferris CP, Marchitelli C. Potential of milk mid-IR spectra to predict metabolic status of cows through blood components and an innovative clustering approach. animal. 2018 Jul:1-0. (<https://DOI:10.1017/S1751731118001751>)
 
-### 2017
+2017
 
 - Garvican ER, Salavati M, Smith RK, Dudhia J. Exposure of a tendon extracellular matrix to synovial fluid triggers endogenous and engrafted cell death: a mechanism for failed healing of intrathecal tendon injuries. Connective tissue research. 2017 Sep 3;58(5):438-46. (DOI: 10.1080/03008207.2016.1245726)
 
-### 2016
+2016
 
 - Hanousek K, Salavati M, Fouladi-Nashta A. Effect of horse sex status on British Eventing competition performance: an observational study between 1998 and 2016. The Veterinary Record. 2018 Jun 9;182(23):666. (DOI:10.1136/vr.104719)
 - Chen X, Cheng Z, Werling D, Pollott GE, Salavati M, Johnson KF, Khan FA, Wathes DC, Zhang S. Bovine P-selectin mediates leukocyte adhesion and is highly polymorphic in dairy breeds. Research in veterinary science. 2016 Oct 1; 108:85-92. (DOI: 10.1016/j.rvsc.2016.08.004)
 - Marei WF, Raheem KA, Salavati M, Tremaine T, Khalid M, Fouladi-Nashta AA. Hyaluronan and hyaluronidase, which is better for embryo development? Theriogenology. 2016 Sep 1;86(4):940-8. (DOI: 10.1016/j.theriogenology.2016.03.017)
 
-### 2014
+2014
 
 - Salavati M, Smith RK, Dudhia J90 Hyperthermia Induced Stress Proteins in Equine Superficial Digital Flexor Tendon. British Journal of Sports Medicine 2014;48: A59. <http://dx.doi.org/10.1136/bjsports-2014-094114.89>
 - Smith RK, Salavati M, Dudhia J96 Prolonged Duration of Oxygen Equilibration Is Required for Hypoxic Culture Conditions. British Journal of Sports Medicine 2014;48: A62-A63. <http://dx.doi.org/10.1136/bjsports-2014-094114.95>
 - Dudhia J, Salavati M, Waters LK, et al32 Hypoxia Protects Against Hypertermia-induced Stress in Equine Flexor Tendon Tenocytes. British Journal of Sports Medicine 2014;48: A21. <http://dx.doi.org/10.1136/bjsports-2014-094114.32>
 
-### -----------2013### -------------
+2013
 
 - Marei WF, Salavati M & Fouladi-Nashta AA. Critical role of Hyaluronidase-2 during preimplantation embryo development. (2013) Mol Hum Reprod. (<https://DOI:10.1093/molehr/gat032>)  
 - Salavati M., Ghafari F., Zhang T. & Fouladi-nashta A.A. Influence of caffeine pre-treatment on biphasic in vitro maturation of dog oocytes. (2013) Theriogenology (<https://DOI:10.1016/j.theriogenology.2013.06.020>).
 
-### -----------2012### -------------
+2012
 
 - Salavati M., Ghafari F., Zhang T. & Fouladi-nashta A.A. Effects of oxygen concentration on in vitro maturation of canine oocytes in a chemically defined serum-free medium. (2012) Reproduction 144 p 547-556. (<https://doi:10.1530/REP-12-0176>)
