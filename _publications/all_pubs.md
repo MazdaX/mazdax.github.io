@@ -1,6 +1,5 @@
 ---
 collection: publications
-date: 2022
 ---
 
 2022

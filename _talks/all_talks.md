@@ -1,6 +1,5 @@
 ---
 collection: talks
-date: 2022
 ---
 
 - World Congress on Genetics Applied to Livestock Production, Netherlands, July 2022
