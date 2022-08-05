@@ -1,5 +1,5 @@
 ---
-collection: publications
+collection: talks
 date: 2022
 ---
 
