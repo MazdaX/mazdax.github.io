@@ -1,4 +1,5 @@
 ---
+collection: publications
 ---
 
 
@@ -32,6 +33,7 @@
 - Angela Holder, Rachel Garty, Charlotte Elder, Paula Mesnard, Celine Laquerbe, Marie-Christine Bartens, Mazdak Salavati, Muhammad Zubair Shabbir, Thomas Tzelos, Timothy Connelly, Bernardo Villarreal-Ramos, Dirk Werling. Analysis of Genetic Variation in the Bovine SLC11A1 Gene, Its Influence on the Expression of NRAMP1 and Potential Association with Resistance to Bovine Tuberculosis. Frontiers in Microbiology, Infectious Diseases Issue, <https://doi.org/10.3389/fmicb.2020.01420>
 - Leslie Foldager, Charlotte Gaillard, Martin T Sorensen, Torben Larsen, Elizabeth Matthews, Roisin O’Flaherty, Fiona Carter, Mark A Crowe, Clément Grelet, Mazdak Salavati, Miel Hostens, Klaus L Ingvartsen, Mogens A Krogh, GplusE Consortium. Predicting physiological imbalance in Holstein dairy cows by three different sets of milk biomarkers. Preventive Veterinary Medicine 2020, (<https://doi.org/10.1016/j.prevetmed.2020.105006>)
 - Hadi Atashi, Mazdak Salavati, Jenne De Koster, Mark A Crowe, Geert Opsomer, Miel Hostens. A Genome-Wide Association Study for Calving Interval in Holstein Dairy Cows Using Weighted Single-Step Genomic BLUP Approach. MDPI Animals 2020 (<https://doi.org/10.3390/ani10030500>)
+  
 ----------------------------------------------------2019------------------------------------------------------
 
 - Mazdak Salavati, Stephen J. Bush, Sergio Palma-Vera, Mary E.B. McCulloch, David A. Hume, and Emily L. Clark. Elimination of reference mapping bias reveals robust immune related allele-specific expression in cross-bred sheep (Frontiers in Genetics, 19 September 2019 <https://doi.org/10.3389/fgene.2019.00863> )
