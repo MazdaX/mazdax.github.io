@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +48,10 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+
+Currently my work as a core scientist within the Roslin Institute involves, me focusing on high dimensional phenotypes, functional annotation of livestock genomic datasets and prototyping bioinformatic software pipelines. My unique experiences, first as a mixed practice veterinarian, and then transitioning into a biomedical informatician has enabled me to actively participate and direct a number of projects aimed at the betterment of livestock system outcomes in practice. I have contributed to several international livestock genomic initiatives e.g. Genotype Plus Environment consortium, BovineMine.org, Functional Annotation of Animal Genomes (FAANG) and Centre for Tropical Livestock Genetics and Health (CTLGH) and continue to expand my multidisciplinary collaborations with this scientific community. Producing and maintaining biological Big Data as part of my postdoctoral experience, I have further developed a unique cross-desciplinary skillset within Applied Data Science and digitisation in R&D environments. Since 2020 I have been consulting on multiple Data Science driven and Business Analytics projects via industry led collaborations within the Life BioSciences and AgriTech sectors. 
+
+During my career as a passionate educator, I have supervised and supported students and researchers in higher education within wet and dry lab experimental setups. In doing so I obtained my associate fellowship of the Higher Education Academy (HEA) in 2017.
+
+
