@@ -1,7 +1,6 @@
 ---
 collection: publications
 title: ""
-date: ""
 ---
 
 _2022_
