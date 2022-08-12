@@ -1,5 +1,6 @@
 ---
-collection: publications
+collection: talks
+title: ""
 ---
 
 _2022_
