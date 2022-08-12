@@ -13,5 +13,5 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   <!--{% include archive-single.html %}-->
-  {%include /publications/all_pubs.md'}
+  {%include /publications/all_pubs.md}
 {% endfor %}
