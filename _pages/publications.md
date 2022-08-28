@@ -8,7 +8,7 @@ author_profile: true
 - fsdsdsf here
 
 <!-- {% if author.googlescholar %} -->
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <a href="{{  author.googlescholar }}" class="view">my Google Scholar profile</a>.
 
 <!--{% endif %}-->
 
