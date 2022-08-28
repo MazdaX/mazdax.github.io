@@ -78,4 +78,5 @@ _2013_
 
 _2012_
 
-- Salavati M., Ghafari F., Zhang T. & Fouladi-nashta A.A. Effects of oxygen concentration on in vitro maturation of canine oocytes in a chemically defined serum-free medium. (2012) Reproduction 144 p 547-556. <https://doi:10.1530/REP-12-0176>
+- Salavati M., Ghafari F., Zhang T. & Fouladi-nashta A.A. Effects of oxygen concentration on in vitro maturation of canine oocytes in a chemically defined serum-free medium. (2012) Reproduction 144 p 547-556. <https://doi.org/10.1530/REP-12-0176>
+
